@@ -1,4 +1,4 @@
-# MatchstickGame
+# Matchstick Game
 Write a program for a matchstick game being played between the computer 
 and a user. Your program should ensure that the computer always wins. 
 Rules for the game are as follows:
